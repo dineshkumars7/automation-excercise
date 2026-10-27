@@ -1,0 +1,23 @@
+# Maven
+target/
+
+# TestNG generated reports
+test-output/
+
+# Java
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
